@@ -7,8 +7,8 @@ const suspiciousPushTimeMessage = 'Suspicious push detected';
 const suspiciousTeamNameMessage = 'Suspicious team created';
 const suspiciousRepoDeleteMessage = 'Suspicious repository deletion detected';
 const notificationMethods = ['log']
-const validPushTimeUTCSmall = 18;
-const validPushTimeUTCLarge = 20;
+const validPushTimeUTCSmall = 14;
+const validPushTimeUTCLarge = 16;
 const allowedDeletionRange = 10;
 const restrictedText = 'hacker';
 
